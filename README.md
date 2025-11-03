@@ -11,9 +11,9 @@ Includes a GitHub Actions CI pipeline for automated build and test execution.
 - GitHub Actions CI integration
 
 ## Project Structure
-ui/LoginScreen
-| viewmodel/LoginViewModel
-MainActivity
+- ui/LoginScreen
+- viewmodel/LoginViewModel
+- MainActivity
 
 ## Testing
 ### Espresso + Compose UI Testing
@@ -36,6 +36,7 @@ To enable:
 ## Usage
 #### Credentials:
 Email: test@example.com
+
 Password: 1234
 Steps:
 1. Enter credentials.
