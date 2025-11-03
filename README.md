@@ -12,7 +12,7 @@ Includes a GitHub Actions CI pipeline for automated build and test execution.
 
 ## Project Structure
 ui/LoginScreen
-viewmodel/LoginViewModel
+| viewmodel/LoginViewModel
 MainActivity
 
 ## Testing
